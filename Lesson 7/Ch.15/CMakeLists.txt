@@ -9,4 +9,12 @@ add_executable(clox
         debug.c
         value.c
         vm.c
+        "../Ch.14/question 1/chunk.c"
+        "../Ch.14/question 1/chunk.h"
+        "../Ch.14/question 2/chunk.c"
+        "../Ch.14/question 2/chunk.h"
+        "../Ch.14/question 2/debug.c"
+        "../Ch.14/question 3/main_hardcore.c"
+        "../Ch.14/question 3/memory_hardcore.c"
+        "../Ch.14/question 3/memory_hardcore.h"
 )
