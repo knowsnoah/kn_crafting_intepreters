@@ -21,4 +21,6 @@ add_executable(clox
         "../../Lesson 8/Chapter 17/question 3/complier.c"
         "../../Lesson 8/Chapter 17/question 3/complier.h"
         "../../Lesson 9/Chapter 19/code.c"
+        "../../Lesson 10/chapter 20/table.c"
+        "../../Lesson 10/chapter 20/table.h"
 )
